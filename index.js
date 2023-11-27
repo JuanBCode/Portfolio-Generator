@@ -42,7 +42,6 @@ function generateHTML(answers) {
       <style>
         body { font-family: Arial, sans-serif; }
         h1 { color: #333; }
-        /* Add more styles as needed */
       </style>
     </head>
     <body>
@@ -51,7 +50,6 @@ function generateHTML(answers) {
       <p>Bio: ${answers.bio}</p>
       <a href="${answers.linkedin}">LinkedIn</a>
       <a href="${answers.github}">GitHub</a>
-      <!-- Add more content as needed -->
     </body>
     </html>
   `;
