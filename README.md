@@ -18,6 +18,7 @@ Watch the walkthrough video of the Portfolio Generator:
 
 [![Portfolio Generator Walkthrough](https://img.youtube.com/vi/bsN_sRbC6YE/0.jpg)](https://youtu.be/bsN_sRbC6YE)
 
+https://youtu.be/bsN_sRbC6YE
 
 ## Installation
 
