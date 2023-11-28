@@ -8,7 +8,7 @@ This program makes a personal webpage for you. It asks for your details and make
 
 Below is a screenshot of the generated portfolio page:
 
-![Generated Portfolio Page](C:\Users\lolju\Documents\portfolio generator\Screenshot 2023-11-27 154813.png)
+![Generated Portfolio Page](Screenshot 2023-11-27 154813.png)
 
 ## Walkthrough Video
 
