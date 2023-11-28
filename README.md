@@ -9,7 +9,8 @@ This program makes a personal webpage for you. It asks for your details and make
 Here are some screenshots of the application:
 
 ![Screenshot 1](2.2.png)
-![Screenshot 2](Screenshot 2023-11-27 154926.png)
+
+![Screenshot 2](2.3.png)
 
 ## Walkthrough Video
 
