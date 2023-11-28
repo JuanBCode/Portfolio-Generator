@@ -14,11 +14,10 @@ Here are some screenshots of the application:
 
 ## Walkthrough Video
 
-Watch the walkthrough video to see how the application works:
+Watch the walkthrough video of the Portfolio Generator:
 
-[![Watch the video](/path/to/video-thumbnail.jpg)](URL_OF_YOUR_VIDEO)
+[![Portfolio Generator Walkthrough](https://img.youtube.com/vi/bsN_sRbC6YE/0.jpg)](https://youtu.be/bsN_sRbC6YE)
 
-Replace `/path/to/video-thumbnail.jpg` with the relative path to a thumbnail image for your video in your project repository and `URL_OF_YOUR_VIDEO` with the actual link to your video.
 
 ## Installation
 
