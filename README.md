@@ -4,11 +4,12 @@
 
 This program makes a personal webpage for you. It asks for your details and makes a special webpage to show your work and what you are good at.
 
-## Image
+## Images
 
-Below is a screenshot of the generated portfolio page:
+Here are some screenshots of the application:
 
-![Generated Portfolio Page](Screenshot 2023-11-27 154813.png).
+![Screenshot 1](images/Screenshot 2023-11-27 154813.png)
+![Screenshot 2](images/Screenshot 2023-11-27 154926.png)
 
 ## Walkthrough Video
 
